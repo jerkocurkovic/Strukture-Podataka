@@ -76,7 +76,7 @@ int main()
 			if (!potraga)
 				printf("\nBrisanje uspjesno!");
 			else
-				printf("\Brisanje bezuspjesna!");
+				printf("\nBrisanje bezuspjesno!");
 		}
 
 	}
