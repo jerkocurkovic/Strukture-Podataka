@@ -1,0 +1,4 @@
+Barcelona 1620000
+Madrid 3223000
+Valencia 791413
+Sevilla 688711

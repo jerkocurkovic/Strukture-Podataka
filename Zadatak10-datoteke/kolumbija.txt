@@ -1,0 +1,3 @@
+Medellin 2569000
+Cali 2228000
+Bogota 7181000
