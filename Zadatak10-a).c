@@ -33,7 +33,7 @@ int IspisDrzava(Pozicija P);
 StabloP IspisGradova(StabloP Trenutni);
 int IspisOdredeneDrzave(Pozicija P, char* naziv, int uvjet);
 StabloP IspisOdredenihGradova(StabloP Trenutni, int uvjet);
-Pozicija PretragaDrzave(Pozicija P, char* naziv);
+
 
 
 int main()
